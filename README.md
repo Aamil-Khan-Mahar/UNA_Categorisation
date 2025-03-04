@@ -7,3 +7,5 @@ We implemented 3 ML models from scratch; Logistic Regression, Multinomial Naive 
 We then compared our results against the SKLearn implementations of these models, and evaluated our performance.
 
 Also created a mock research paper, based on the ACM format.
+
+_**Contributers: Aamil Khan Mahar, Amaan Ahmed, Hamza Shakeel, Ahmed Zubair Khan and Khan Abdullah.**_
